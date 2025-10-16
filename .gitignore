@@ -1,0 +1,15 @@
+# Ignore environment and config files
+.env
+
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore compiled and cache files
+__pycache__/
+*.pyc
+
+# Ignore local data logs
+eco_score_log.csv
+pollution_reports.csv
+pollution_images/
